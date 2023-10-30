@@ -17,9 +17,9 @@
 
 - 💻 As a cybersecurity enthusiast, I'm passionate about exploring the ever-evolving world of cybersecurity and its challenges. 
 
-- 🎓 I hold a Bachelor's degree in Computer Engineering, and my academic background has provided me with a solid foundation in various areas of information technology and cybersecurity. 
+- 🎓 I hold a Bachelor's degree in Computer Engineering, and my academic background has provided me with a solid foundation in various areas of information technology. 
 
-- 💪 My GitHub repository showcases a collection of my special projects, including those completed during my undergraduate studies. These projects span a wide range of topics in computer engineering, such as software development, system design, and algorithm implementation. 
+- 💪 My GitHub repository showcases a collection of my projects, including those completed during my undergraduate studies. These projects span a wide range of topics in computer engineering, such as software development, system design, and algorithm implementation. 
 
 - 💼 While my current projects are primarily focused on my academic pursuits, I'm eager to expand my portfolio with more real-world projects and gain practical experience in the field. I'm always on the lookout for opportunities to contribute to cybersecurity initiatives and enhance my skills. 
 
